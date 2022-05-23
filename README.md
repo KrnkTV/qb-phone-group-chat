@@ -65,3 +65,8 @@ Any bugs feel free to PR, I am not maintaining this resource just releasing my w
 ![](https://i.imgur.com/E57VpCv.png)
 ![](https://i.imgur.com/tGKhQgj.png)
 ![](https://i.imgur.com/qKDQxTW.png)
+
+Credits
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+david - For making this incredible app for qb-phone and i just take it and put into qb-phone-npstyle
+https://github.com/davidxd33/qb-phone
